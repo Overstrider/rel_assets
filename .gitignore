@@ -1,0 +1,6 @@
+# Ignorar pasta assets e todo seu conteúdo
+assets/
+assets/**
+
+# Ignorar arquivo de compactacao
+build.bat
